@@ -15,6 +15,10 @@ This is a complete Lua rewrite of the original [vim-dim](https://github.com/jeff
 
 [ANSI colors]: https://en.wikipedia.org/wiki/ANSI_escape_code#Colors
 
+## Screenshot
+
+![screenshot.jpg](screenshot.jpg)
+
 ## Requirements
 
 - Neovim 0.5.0 or later
